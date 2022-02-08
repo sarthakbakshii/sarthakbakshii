@@ -26,10 +26,11 @@ Here are some ideas to get you started:
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="vaibhav-raj" /> </p> -->
 
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
-- 🔭 I’m currently working on
+- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** from MASAI SCHOOL
+- 🔭 Possess knoladge and have work experience on **LAMP FULL STACK DEVELOPEMNT**
 
-- 💬 Ask me about **JAVASCRIPT, REACT, DS-ALGO**
+- 💬 Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if
+        I am unable then surely we will together learn new things.
 
 - 📫 How to reach me **sarthakbakshi@gmail.com**
 
