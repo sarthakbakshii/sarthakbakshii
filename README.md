@@ -72,10 +72,12 @@ Here are some ideas to get you started:
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                         alt="redux" width="40" height="40" /> </a> </p>
 
-<p align="center" ><img  width="50%"
+<p align="center" ><img  
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbakshii&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
-                alt="sarthakbakshii" />   
-                <img align="center" width="50%"
+                alt="sarthakbakshii" />  </p>
+
+<p align="center">&nbsp; 
+                <img align="center" 
                 src="https://github-readme-stats.vercel.app/api?username=sarthakbakshii&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="sarthakbakshii" /></p>
 
