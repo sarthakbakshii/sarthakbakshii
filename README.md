@@ -71,18 +71,18 @@ Here are some ideas to get you started:
                         alt="redux" width="40" height="40" /> </a> </p>
 
 <p align="center"><img
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-bakshi&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
-                alt="sarthak-bakshi" /></p>
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbakshii&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
+                alt="sarthakbakshii" /></p>
 
 <p align="center">&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=sarthak-bakshi&show_icons=true&theme=dark&hide_border=true&locale=en"
-                alt="sarthak-bakshi" /></p>
+                src="https://github-readme-stats.vercel.app/api?username=sarthakbakshii&show_icons=true&theme=dark&hide_border=true&locale=en"
+                alt="sarthakbakshii" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-bakshi&theme=dark&hide_border=true"
-                alt="sarthak-bakshi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbakshii&theme=dark&hide_border=true"
+                alt="sarthakbakshii" /></p>
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/sarthak-bakshi/github-readme-activity-graph"><img alt="vaibhav-raj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarthak-bakshi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/sarthakbakshii/github-readme-activity-graph"><img alt="sarthakbakshii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarthakbakshii&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 
 
