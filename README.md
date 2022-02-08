@@ -27,9 +27,9 @@ Here are some ideas to get you started:
                 alt="vaibhav-raj" /> </p> -->
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** from MASAI SCHOOL
-- 🔭 Possess knoladge and have work experience on **LAMP FULL STACK DEVELOPEMNT**
+- 🔭 Previously i was working as a **LAMP FULL STACK DEVELOPEMNT**
 
-- 💬 Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if
+- 💬 Ask me about anything related to MERN stack and data structure <br> & algorithms.I will be happy to tell, if
         I am unable then surely we will together learn new things.
 
 - 📫 How to reach me **sarthakbakshi@gmail.com**
