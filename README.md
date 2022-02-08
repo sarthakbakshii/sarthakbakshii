@@ -45,7 +45,7 @@ Here are some ideas to get you started:
                         src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center "> <a href="https://www.cprogramming.com/" target="_blank"> <img
+<p align="center " style="border: 1px solid black" > <a href="https://www.cprogramming.com/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
                         width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
