@@ -22,9 +22,9 @@ Here are some ideas to get you started:
                 src="https://komarev.com/ghpvc/?username=vaibhav-raj&label=Profile%20views&color=0e75b6&style=flat"
                 alt="vaibhav-raj" /> </p>
                 
-<p align="center"> <img
+<!-- <p align="center"> <img
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
-                alt="vaibhav-raj" /> </p>
+                alt="vaibhav-raj" /> </p> -->
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
                         src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
         <a href="https://www.linkedin.com/in/sarthak-bakshi/"><img alt="linkedin" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
-        <a href="https://twitter.com/vaibhavraj524"><img alt="twitter" width="10%" style="padding:5px"
+        <a href="https://twitter.com/sarthakbakshii"><img alt="twitter" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
