@@ -72,7 +72,7 @@ Here are some ideas to get you started:
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                         alt="redux" width="40" height="40" /> </a> </p>
 
-<p align="center" style="border : 1px solid; padding : 20px><img
+<p align="center" ><img  width="50%"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbakshii&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
                 alt="sarthakbakshii" /></p>
 
