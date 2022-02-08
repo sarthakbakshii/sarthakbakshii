@@ -76,10 +76,10 @@ Here are some ideas to get you started:
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbakshii&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
                 alt="sarthakbakshii" />  </p>
 
-<p >&nbsp; 
+<p align="center "  >
                 <img  width="45%"
                 src="https://github-readme-stats.vercel.app/api?username=sarthakbakshii&show_icons=true&theme=dark&hide_border=true&locale=en"
-                alt="sarthakbakshii" />
+                alt="sarthakbakshii" />  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
         <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbakshii&theme=dark&hide_border=true"
                 alt="sarthakbakshii" /></p>
 
