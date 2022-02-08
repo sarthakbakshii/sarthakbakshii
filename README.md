@@ -72,9 +72,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakbakshii&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
-                alt="sarthakbakshii" /></p>
-
-<p align="center">&nbsp;<img align="center"
+                alt="sarthakbakshii" />>&nbsp;<img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=sarthakbakshii&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="sarthakbakshii" /></p>
 
