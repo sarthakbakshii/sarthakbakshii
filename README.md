@@ -77,11 +77,11 @@ Here are some ideas to get you started:
                 alt="sarthakbakshii" />  </p>
 
 <p align="center">&nbsp; 
-                <img align="center" 
+                <img 
                 src="https://github-readme-stats.vercel.app/api?username=sarthakbakshii&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="sarthakbakshii" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbakshii&theme=dark&hide_border=true"
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbakshii&theme=dark&hide_border=true"
                 alt="sarthakbakshii" /></p>
 
 ### 📈 GitHub Activity:
