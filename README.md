@@ -27,6 +27,7 @@ Here are some ideas to get you started:
                 alt="vaibhav-raj" /> </p> -->
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
+- 🔭 I’m currently working on
 
 - 💬 Ask me about **JAVASCRIPT, REACT, DS-ALGO**
 
