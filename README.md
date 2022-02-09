@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** from MASAI SCHOOL
 - 🔭 Previously i was working as a **LAMP FULL STACK DEVELOPEMNT**
-
-- 💬 Ask me about anything related to MERN stack and data structure& algorithms. 
+- 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
+- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
+- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
+- ⚡ Fun fact: Coder with biceps.:smile:
 
 - 📫 How to reach me **sarthakbakshi@gmail.com**
 
