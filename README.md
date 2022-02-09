@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sarthak Bakshi 👨🏻‍💻</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sarthak Bakshi 👨🏻‍💻</h1>
 <h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing
         applications and solutions using JavaScript, ReactJS.</h3>
 
