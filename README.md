@@ -26,7 +26,7 @@ Here are some ideas to get you started:
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="vaibhav-raj" /> </p> -->
 
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** from MASAI SCHOOL
+- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** 
 - 🔭 Previously i was working as a **LAMP FULL STACK DEVELOPEMNT**
 - 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
 - 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
