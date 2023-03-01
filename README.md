@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- <p align="center"> <img
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="vaibhav-raj" /> </p> -->
-
+- Worked as frontend deveoper in cleartrip ( flipkart ) for 10 months.
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** 
 - 🔭 Previously i was working as a **LAMP FULL STACK DEVELOPEMNT**
 - 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
