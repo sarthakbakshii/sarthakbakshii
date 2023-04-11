@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
 - ⚡ Fun fact: Coder with biceps.:smile:
 
-- 📫 How to reach me **sarthakbakshi@gmail.com**
+- 📫 How to reach me **sarthakbakshi14@gmail.com**
 
 <!-- - 🔗 Personal Website **https://vaibhavraj.netlify.app/** -->
 
