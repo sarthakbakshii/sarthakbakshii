@@ -40,12 +40,15 @@ Here are some ideas to get you started:
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="center">Feel Free to Contact me.....</h3>
 <p align="center">
-        <a href="https://github.com/sarthakbakshii"><img alt="github" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
-        <a href="https://www.linkedin.com/in/sarthak-bakshi/"><img alt="linkedin" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
-        <a href="https://twitter.com/sarthakbakshii"><img alt="twitter" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
+        <a href="https://github.com/sarthakbakshii"><img alt="github" width="5%" style="padding:20px"
+                        src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" /></a>
+        <a href="https://www.linkedin.com/in/sarthak-bakshi/"><img alt="linkedin" width="5%" style="padding:20px; margin-left : 20px"
+                        src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" /></a>
+        <a href="https://twitter.com/sarthakbakshii"><img alt="twitter" width="5%" style="padding:20px; margin-left : 20px"
+                        src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" /></a>
+        <a href="https://www.instagram.com/sarthakbakshi/"><img alt="twitter" width="5%" style="padding:20px; margin-left : 20px"
+                        src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" /></a>
+        
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center " style="border: 1px solid black" > 
