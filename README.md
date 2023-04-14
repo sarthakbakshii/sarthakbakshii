@@ -26,9 +26,9 @@ Here are some ideas to get you started:
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="vaibhav-raj" /> </p> -->
 - Worked as frontend deveoper in cleartrip ( flipkart ) for about an year.
-- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT** 
-- 🔭 Previously i was working as a **LAMP FULL STACK DEVELOPEMNT**
-- 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
+- 🌱 I’m currently a **MERN FULL STACK DEVELOPER** 
+- 🔭 Previously i was working as a **LAMP FULL STACK DEVELOPER**
+- 🌱 &nbsp; Learning more about AWS, Next, React Native and Typscript.
 - 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
 - ⚡ Fun fact: Coder with biceps.:smile:
