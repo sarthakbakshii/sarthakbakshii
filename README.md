@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing
         applications and solutions using JavaScript, ReactJS.</h3>
 
-<p align="center"> <img
-                src="https://komarev.com/ghpvc/?username=vaibhav-raj&label=Profile%20views&color=0e75b6&style=flat"
-                alt="vaibhav-raj" /> </p>
-                
-<!-- <p align="center"> <img
-                src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
-                alt="vaibhav-raj" /> </p> -->
-- Worked as frontend deveoper in cleartrip ( flipkart ) for about an year.
+
+
+ 
+- ☕Worked as frontend deveoper in cleartrip ( flipkart ) for about an year. Also worked as Lamp full stack in CyberSher
+- 🚗 Started webDev journey in feb 2020.
 - 🌱 I’m currently a **MERN FULL STACK DEVELOPER** 
 - 🔭 Previously i was working as a **LAMP FULL STACK DEVELOPER**
 - 🌱 &nbsp; Learning more about AWS, Next, React Native and Typscript.
@@ -88,6 +85,7 @@ Here are some ideas to get you started:
                 alt="sarthakbakshii" />  &nbsp; &nbsp; 
         <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbakshii&theme=dark&hide_border=true"
                 alt="sarthakbakshii" /></p>
+
 
 ### 📈 GitHub Activity:
   <a href="https://github.com/sarthakbakshii/github-readme-activity-graph"><img alt="sarthakbakshii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarthakbakshii&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
